@@ -20,7 +20,7 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,wordpress,jquery,tailwind,bootstrap&perline=9)](#)
 
 ### Design
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,figma,blender&perline=9)](#)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,figma,blender&perline=9)](#)
 
 ### Moteur de jeu
 [![My Skills](https://skillicons.dev/icons?i=unity&perline=9)](#)
