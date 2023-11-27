@@ -9,7 +9,17 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 
 
 ## ✅ Mes compétences
+  
 
+
+| [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,java,cs,c)](#) | [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,figma,blender&perline=9)](#) |
+--- | --- 
+| [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,wordpress,jquery,tailwind,bootstrap&perline=9)](#) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](#) |
+| [![My Skills](https://skillicons.dev/icons?i=unity&perline=9)](#) | [![My Skills](https://skillicons.dev/icons?i=linux,bash&perline=9)](https://skillicons.dev/) |
+
+
+
+<!--
 ### Développement Front-End / Back-End
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,java,cs,c)](#)
 
@@ -27,8 +37,7 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 
 ### Linux
 [![My Skills](https://skillicons.dev/icons?i=linux,bash&perline=9)](#)
-
-
+ -->   
 
 ## 🔗 Liens 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicolas-vero/)
@@ -37,17 +46,5 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 [![Codewars](https://www.codewars.com/users/NicolasVero/badges/large)](https://www.codewars.com/users/NicolasVero/stats)
 
 
-<!--
-**NicolasVero/NicolasVero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Trophés GitHub
+![](https://github-profile-trophy.vercel.app/?username=NicolasVero&theme=onedark&no-frame=true&no-bg=true&margin-w=30)
