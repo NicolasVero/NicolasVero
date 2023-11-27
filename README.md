@@ -4,13 +4,21 @@ Je suis un étudiant en 3ème année de BUT MMI, et je suis à la recherche d'un
 N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio : [nicolas-vero.fr](https://nicolas-vero.fr/)
 
 ## 🚀 Mes langages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVero&layout=compact&hide=jupyter%20notebook+&langs_count=10&theme=github_dark)](https://github.com/NicolasVero?tab=repositories)
+<!--
+<div style="display: flex; width: 100%; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NicolasVero&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: 46%; height: 100%; object-fit: cover;" />
+    <img src="https://streak-stats.demolab.com?user=NicolasVero&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&ring=399D72&fire=399D72&currStreakLabel=399D72" alt="GitHub Streak" style="width: 50%; height: 100%; object-fit: cover;"  />
+</div>
+-->
 
-
+<!-- 
+## 🏆 Trophés GitHub
+![](https://github-profile-trophy.vercel.app/?username=NicolasVero&theme=onedark&no-frame=true&no-bg=true&margin-w=30)
+-->
 
 ## ✅ Mes compétences
-  
-
 
 | [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,java,cs,c)](#) | [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,figma,blender&perline=9)](#) |
 --- | --- 
@@ -42,9 +50,4 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 ## 🔗 Liens 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicolas-vero/)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22874072/nicolas-vero)
-
 [![Codewars](https://www.codewars.com/users/NicolasVero/badges/large)](https://www.codewars.com/users/NicolasVero/stats)
-
-
-## 🏆 Trophés GitHub
-![](https://github-profile-trophy.vercel.app/?username=NicolasVero&theme=onedark&no-frame=true&no-bg=true&margin-w=30)
