@@ -17,9 +17,10 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C-%23033963?style=for-the-badge&logo=C&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23" alt="C#">
+<img src="https://img.shields.io/badge/Java-%2362216b?style=for-the-badge" alt="Java">
 </p>
 
 <!-- Framework / Bibliotheque / CMS -->
