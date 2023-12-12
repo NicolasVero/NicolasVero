@@ -16,11 +16,11 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-%2362216b?style=for-the-badge" alt="Java">
 <img src="https://img.shields.io/badge/C-%23033963?style=for-the-badge&logo=C&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%23" alt="C#">
-<img src="https://img.shields.io/badge/Java-%2362216b?style=for-the-badge" alt="Java">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
 <!-- Framework / Bibliotheque / CMS -->
@@ -36,6 +36,7 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 <img src="https://img.shields.io/badge/drupal-%230678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+<img src="https://img.shields.io/badge/git-%23E84D31?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
 <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
@@ -59,7 +60,6 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 <img src="https://img.shields.io/badge/Adobe%20XD-%23742269?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-<img src="https://img.shields.io/badge/git-%23E84D31?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
 </p>
 
 
