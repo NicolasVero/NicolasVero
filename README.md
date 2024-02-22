@@ -62,6 +62,7 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 <img src="https://img.shields.io/badge/Adobe%20audition-%23006451?style=for-the-badge&logo=adobe%20audition&logoColor=white" alt="Adobe Audition">
 <img src="https://img.shields.io/badge/adobe%20indesign-%23831535?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign">
 <img src="https://img.shields.io/badge/Adobe%20XD-%23742269?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD">
+<img src="https://img.shields.io/badge/audacity-%230000CC?style=for-the-badge&logo=audacity" alt="Adobe XD">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
