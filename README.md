@@ -38,6 +38,8 @@ N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 <img src="https://img.shields.io/badge/drupal-%230678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+<img src="https://img.shields.io/badge/prestashop-%23DF0067?style=for-the-badge&logo=prestashop" alt="PrestaShop">
+<img src="https://img.shields.io/badge/shopify-%23%237AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
 <img src="https://img.shields.io/badge/git-%23E84D31?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
 <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
