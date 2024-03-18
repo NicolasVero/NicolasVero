@@ -1,6 +1,6 @@
 # Salut tout le monde 👋
 
-Je suis un étudiant en 3ème année de BUT MMI, et je suis à la recherche d'un stage de 16 semaines dans le domaine du développement. 
+Je suis un étudiant en 3ème année de BUT MMI. 
 N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio : [nicolas-vero.fr](https://nicolas-vero.fr/)
 
 ## ✅ Mes compétences
