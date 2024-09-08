@@ -1,6 +1,6 @@
 # Salut tout le monde 👋
 
-Je suis un étudiant en 3ème année de BUT MMI ! <br>
+Je suis un développeur web diplômé de l'Université de Rouen en BUT MMI ! <br>
 N'hesitez pas a faire le tour de mes dépots publics, ainsi que de mon portfolio : [nicolas-vero.fr](https://nicolas-vero.fr/)
 
 ## ✅ Mes compétences
