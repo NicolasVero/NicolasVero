@@ -1,9 +1,9 @@
-# Salut tout le monde 👋🏻
+# Hi everyone 👋🏻
 
-Diplômé de l'Université de Rouen en BUT MMI, je suis actuellement développeur web au sein de l'école Neoma Business School. <br>
-N'hésitez pas a faire le tour de mes dépôts publics, de mon compte [LinkedIn](https://linkedin.com/in/nicolas-vero), ainsi que de mon portfolio : [nicolas-vero.fr](https://nicolas-vero.fr/)
+I graduated with a Bachelor's degree in Multimedia and Internet Professions (MMI) from the University of Rouen and am currently working as a web developer at NEOMA Business School.
+Feel free to check out my public repositories and my [LinkedIn account](https://linkedin.com/in/nicolas-vero)
 
-## ✅ Mes principales compétences
+## ✅ My main skills
 <p align='left'>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -19,15 +19,15 @@ N'hésitez pas a faire le tour de mes dépôts publics, de mon compte [LinkedIn]
   <img src="https://img.shields.io/badge/bash-%23212121?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
-## 🌍 Projets récents :
-**Stardew Dashboard** : Un compagnon pour les fermiers aguerris du jeu *Stardew Valley*.<br>
-**Monarchy Mayhem** : Un jeu réalisé lors d'un projet de fin d'année, arrivé 3ème dans sa catégorie du concours national *Festival MMI 2024*.
+## 🌍 Recent projects :
+**Stardew Dashboard** : A companion for seasoned *Stardew Valley* farmers.<br>
+**Monarchy Mayhem** : A game created as part of an end-of-year project, which came 3rd in its category in the national *Festival MMI 2024* competition.
 
 
-## 🔗 Liens 
+## 🔗 Links 
 <p align="left">
   <a href="https://linkedin.com/in/nicolas-vero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.codewars.com/users/NicolasVero/stats"><img src="https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
   <a href="mailto:nicolasvero03@gmail.com"><img src="https://img.shields.io/badge/nicolasvero03@gmail.com-399D72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nicolas-vero.fr"><img src="https://img.shields.io/badge/Mon%20Portfolio-1b73a6?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"></a>
+  <!-- <a href="https://nicolas-vero.fr"><img src="https://img.shields.io/badge/Mon%20Portfolio-1b73a6?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"></a> -->
 </p>
