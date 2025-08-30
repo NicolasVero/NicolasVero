@@ -1,6 +1,6 @@
 # Hi everyone 👋🏻
 
-I graduated with a Bachelor's degree in Multimedia and Internet Professions (MMI) from the University of Rouen and am currently working as a web developer at NEOMA Business School.
+I'm a web developer at Neoma Business School. I'm also a part-time lecturer at the University of Rouen, where I teach courses on object-oriented programming and WordPress theme creation.
 Feel free to check out my public repositories and my [LinkedIn account](https://linkedin.com/in/nicolas-vero)
 
 ## ✅ My main skills
