@@ -18,5 +18,6 @@ Feel free to check out my public repositories.
 </p>
 
 ## 🌍 Recent projects :
-**Stardew Dashboard** : A companion for seasoned *Stardew Valley* farmers.<br>
+**Stardew Dashboard** : A tool designed for *Stardew Valley* players, allowing them to track their game progress and facilitate their advancement.
+
 **Monarchy Mayhem** : A game created as part of an end-of-year project, which came 3rd in its category in the national *Festival MMI 2024* competition.
